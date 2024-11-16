@@ -1,10 +1,4 @@
-Here’s a simple README template that you can use for your project. The instructions are written with a beginner-friendly approach, assuming you are a student or fresher.
 
-Contact Management Application
-
-Project Description
-
-This is a simple contact management application where users can add, edit, delete, and view contacts. The application uses React for the frontend and Material UI (MUI) for the UI components, making it easy to manage the contacts in a table format.
 
 Features:
 
